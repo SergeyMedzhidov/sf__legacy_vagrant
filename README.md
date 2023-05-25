@@ -1,2 +1,1 @@
-# sf__legacy_vagrant
-sf_B10.5
+# ЗАДАНИЕ 10.5 (HW-03)
